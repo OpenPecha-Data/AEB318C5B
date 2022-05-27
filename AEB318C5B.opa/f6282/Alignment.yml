@@ -1,0 +1,28 @@
+segment_sources:
+  IC6B4369B:
+    type: origin_type
+    relation: translation
+    language: sa
+  I6AE8BBFC:
+    type: origin_type
+    relation: translation
+    language: sa
+  I555AF5A9:
+    type: origin_type
+    relation: translation
+    language: sa
+  I43E008E9:
+    type: origin_type
+    relation: translation
+    language: bo
+  I48B09579:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  88561054ff184c50ae01a88f15512cb7:
+    IC6B4369B: 9677fb90b6cf46d690946ec9d50b5871
+    I6AE8BBFC: b80dfdd701644fe4bf1ad57da47e0e3b
+    I555AF5A9: 41248860e2cd4425a8e5b823ee83e327
+    I43E008E9: 688ddced365c46a88d8b32bce3705b45
+    I48B09579: 89de63a7cb984035949f8414b394ce3f
